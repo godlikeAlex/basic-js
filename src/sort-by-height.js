@@ -22,7 +22,6 @@ function sortByHeight(arr) {
 
       if (arr[j] < arr[minIndex]) {
         minIndex = j;
-        console.log("hello world");
       }
     }
 
