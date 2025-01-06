@@ -31,8 +31,6 @@ class DepthCalculator {
   }
 }
 
-new DepthCalculator().calculateDepth([[], [[[[]]]]]);
-
 module.exports = {
   DepthCalculator,
 };
